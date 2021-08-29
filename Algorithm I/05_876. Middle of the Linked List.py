@@ -7,6 +7,8 @@ If there are two middle nodes, return the second middle node.
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
+
 def middleNode(head):
     """
     :type head: ListNode
